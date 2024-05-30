@@ -241,6 +241,7 @@ After the death of Aurangzeb in 1707, the Mughal Empire entered a period of decl
 2. **Emergence of Independent States**:
    - In the wake of Mughal decline, regional governors and local rulers began asserting their autonomy and establishing independent states.
    - Powerful states like the Marathas, Sikhs, Rajputs, and Nawabs of Bengal, Awadh, and Hyderabad expanded their territories and influence.
+  
 
 ### European Colonialism:
 1. **British East India Company**:
@@ -258,6 +259,8 @@ After the death of Aurangzeb in 1707, the Mughal Empire entered a period of decl
 2. **British Rule (1858–1947)**:
    - The Indian Rebellion of 1857 (also known as the First War of Independence) led to the British Crown assuming direct control over India from the East India Company.
    - The British Raj was characterized by economic exploitation, cultural assimilation, social reforms, and administrative centralization.
+
+![image](https://github.com/Allan122/UPNCR/assets/45638226/ef9c9667-fba3-427e-8597-c847ea93178c)
 
 ### Indian Nationalism and Independence:
 1. **Rise of Nationalist Movement**:
