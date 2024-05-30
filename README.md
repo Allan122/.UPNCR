@@ -45,3 +45,29 @@ The year 1944 in the Shaka calendar (also known as the Shalivahana Shaka calenda
 - The reference to Shaka year 1944 would correspond to the Gregorian year 2022 (if the statement was made in that year).
 
 As of now, if the current Gregorian year is 2024, the corresponding Shaka year is 2024 - 78 = 1946.
+
+India uses a variety of calendars, each serving different cultural, religious, and regional purposes. Here's a summary of the main types of calendars used in India:
+
+1. **Gregorian Calendar:** Used for official and civil purposes.
+2. **Indian National Calendar (Saka Calendar):** The official civil calendar of India.
+
+**Hindu Lunisolar Calendars:**
+3. **Vikram Samvat:** Used in North and Western India.
+4. **Shalivahana Shaka:** Used in Southern and Western India.
+5. **Tamil Calendar:** Used in Tamil Nadu.
+6. **Malayalam Calendar (Kollam Era):** Used in Kerala.
+7. **Bengali Calendar:** Used in West Bengal and Bangladesh.
+8. **Odia Calendar:** Used in Odisha.
+
+**Religious Calendars:**
+9. **Islamic Calendar (Hijri Calendar):** Used by Muslims for religious purposes.
+10. **Buddhist Calendar:** Used to determine Buddhist religious holidays.
+11. **Jain Calendar:** Used by the Jain community.
+12. **Parsi Calendar (Shahenshahi, Kadmi, and Fasli):**
+    - **Shahenshahi**
+    - **Kadmi**
+    - **Fasli**
+13. **Sikh Calendar (Nanakshahi Calendar):** Used by Sikhs.
+
+In summary, there are **13 main types of calendars** used in India, but if we count the different versions of the Parsi calendar separately, the total is **15** calendars.
+
