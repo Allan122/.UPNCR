@@ -46,6 +46,9 @@ The year 1944 in the Shaka calendar (also known as the Shalivahana Shaka calenda
 
 As of now, if the current Gregorian year is 2024, the corresponding Shaka year is 2024 - 78 = 1946.
 
+
+![image](https://github.com/Allan122/UPNCR/assets/45638226/3f1c642a-736e-4765-9850-492e13993ace)
+
 India uses a variety of calendars, each serving different cultural, religious, and regional purposes. Here's a summary of the main types of calendars used in India:
 
 1. **Gregorian Calendar:** Used for official and civil purposes.
@@ -70,4 +73,6 @@ India uses a variety of calendars, each serving different cultural, religious, a
 13. **Sikh Calendar (Nanakshahi Calendar):** Used by Sikhs.
 
 In summary, there are **13 main types of calendars** used in India, but if we count the different versions of the Parsi calendar separately, the total is **15** calendars.
+
+
 
