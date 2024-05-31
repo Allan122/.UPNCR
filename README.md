@@ -49,6 +49,7 @@ The year 1944 in the Shaka calendar (also known as the Shalivahana Shaka calenda
 
 As of now, if the current Gregorian year is 2024, the corresponding Shaka year is 2024 - 78 = 1946.
 
+<br>
 
 ![image](https://github.com/Allan122/UPNCR/assets/45638226/3f1c642a-736e-4765-9850-492e13993ace)
 
@@ -77,6 +78,7 @@ India uses a variety of calendars, each serving different cultural, religious, a
 
 In summary, there are **13 main types of calendars** used in India, but if we count the different versions of the Parsi calendar separately, the total is **15** calendars.
 
+<br>
 
 ![image](https://github.com/Allan122/UPNCR/assets/45638226/e256c6dc-3a74-47da-9831-478a54c67b2b)
 
@@ -131,6 +133,7 @@ Where \(\left\lfloor x \right\rfloor\) is the floor function, which rounds down 
 - **3rd Century**: 201 to 300
 - **Current Century (as of 2024)**: 21st Century (2001 to 2100)
 
+<br>
 
 ![image](https://github.com/Allan122/UPNCR/assets/45638226/7a1a8540-f5fe-4744-9798-de330efd87df)
 
@@ -196,6 +199,8 @@ Ancient India is celebrated as the "golden age" of Hindu history due to its prof
   - In the 6th century BCE, Jainism and Buddhism emerged as major religious movements, challenging the authority of the Vedic rituals and caste system.
   - Both Jainism and Buddhism emphasized non-violence (ahimsa), ethical conduct, and the pursuit of spiritual liberation (moksha) through meditation and moral living.
 
+<br>
+
 ### Medieval India: "712 AD ISLAMIC Invasion"
 
 ![image](https://github.com/Allan122/UPNCR/assets/45638226/a60be265-51e1-458c-bdf0-970caa6d1a20)
@@ -226,6 +231,8 @@ The first Muslim invasion of the Indian subcontinent took place in 712 CE when M
 
 - **Hindu-Muslim Interactions**:
   - The interaction between Hinduism and Islam during this period led to syncretic traditions, cultural exchanges, and sometimes conflicts, as seen in the architecture, music, and literature of the time.
+
+<br>
 
 ### Modern India: "19th to 20th Century - British Historian"
 
@@ -260,6 +267,8 @@ After the death of Aurangzeb in 1707, the Mughal Empire entered a period of decl
    - The Indian Rebellion of 1857 (also known as the First War of Independence) led to the British Crown assuming direct control over India from the East India Company.
    - The British Raj was characterized by economic exploitation, cultural assimilation, social reforms, and administrative centralization.
 
+<br>
+
 ![image](https://github.com/Allan122/UPNCR/assets/45638226/ef9c9667-fba3-427e-8597-c847ea93178c)
 
 ### Indian Nationalism and Independence:
@@ -290,6 +299,7 @@ After the death of Aurangzeb in 1707, the Mughal Empire entered a period of decl
 ### Summary:
 Religion has been a central aspect of Indian history, influencing social, cultural, and political developments across ancient, medieval, and modern periods. While ancient India witnessed the emergence of Hinduism, Buddhism, and Jainism, the medieval period saw the interplay of Hinduism and Islam, leading to syncretism and conflicts. In modern India, religious pluralism and secularism have been key principles, although challenges related to communalism and religious identity persist.
 
+<br>
 
 # Chronological overview of Indian history
 
