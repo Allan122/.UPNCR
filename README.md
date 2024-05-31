@@ -110,20 +110,6 @@ To determine the century of a given year:
    - 1701 / 100 = 17.01 → Round up to 18 → 18th century
    - 2021 / 100 = 20.21 → Round up to 21 → 21st century
 
-### Formula:
-\[ \text{Century} = \left\lfloor \frac{\text{Year} - 1}{100} \right\rfloor + 1 \]
-
-Where \(\left\lfloor x \right\rfloor\) is the floor function, which rounds down to the nearest integer.
-
-### Applying the Formula:
-- **Year 1701**:
-  \[ \left\lfloor \frac{1701 - 1}{100} \right\rfloor + 1 = \left\lfloor \frac{1700}{100} \right\rfloor + 1 = 17 + 1 = 18 \]
-  → 18th century
-
-- **Year 2023**:
-  \[ \left\lfloor \frac{2023 - 1}{100} \right\rfloor + 1 = \left\lfloor \frac{2022}{100} \right\rfloor + 1 = 20 + 1 = 21 \]
-  → 21st century
-
 ### Special Note:
 - There is no year 0 in the Gregorian calendar. The years immediately preceding 1 AD is 1 BC.
 
