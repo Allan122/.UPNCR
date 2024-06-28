@@ -340,7 +340,8 @@ Religion has been a central aspect of Indian history, influencing social, cultur
 
 ### Vedic Period (1500 BCE - 500 BCE):
 
-**Early Vedic Period - 1500 BCE - 1000 BCE** 
+**Early Vedic Period - 1500 BCE - 1000 BCE**
+
 **Later Vedic Period - 1000 BCE - 600 BCE**
 
 - **Around 1500 BCE - 600 BCE**: Vedic period characterized by the composition of the Vedas and the emergence of early Hinduism.
