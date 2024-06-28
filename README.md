@@ -408,7 +408,7 @@ Religion has been a central aspect of Indian history, influencing social, cultur
 
 ---
 
-**Importance of Ancient Indian History**
+# **Importance of Ancient Indian History**
 
 ## **Development of Culture:**
 Ethnic groups such as Aryans, Indo-Greeks, Turks, etc contributed to the Indian Social system, art, and architecture.
