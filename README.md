@@ -403,5 +403,28 @@ Religion has been a central aspect of Indian history, influencing social, cultur
 ---
 ---
 
+**What is Historiography?**
+#### Writing of history based on the critical examination of sources, evidence, and interpretations.
 
+---
+
+**Importance of Ancient Indian History**
+
+## **Development of Culture:**
+Ethnic groups such as Aryans, Indo-Greeks, Turks, etc contributed to the Indian Social system, art, and architecture.
+**Hindu culture is made through various other culture's contributions. So they should respect every community.**
+**e.g., Greek historians were the first who brought astronomy concepts to India. Every invader brings their culture along with them and they become a part of our Indian Society. Hora Shastra - Astrology**
+
+## **Interaction:**
+Pre-Aryan culture with Dravidian and Tamil, east with west culture gave a unique feature. Such as ideas of Pali and Sanskrit texts also appear in Sangam Literature.
+
+## **Religion**
+India has been the cradle of Hinduism, Jainism, and Buddhism which interacted among themselves to give different customs, languages, and style of life.
+
+### **India is not a Hindu Country, Why?**
+There was a debate in the constituent assembly regarding the majority of Hindus wanted India to be a Hindu Country. Still, they did not make India a Hindu Country. 
+**Reason -** They were aware of India's ancient past, and that **India was never a Hindu country. India was always a country of a composite religion.** In Ancient times apart from Hinduism, Buddhist kings, and Jain Kings were there and in Medieval India, we had Hindu Kings and Islamic Kings. So we cannot trace even in single period in History where India is a Hindu country. And when we cannot find a trace in History then we have no right to change aspects of our country. We have to continue our existence through history. 
+
+### **If one religion becomes dominant. what happens?**
+If one religion's dominance increases conservatism comes liberality become less. And when conservatism increases that is always a problem for the society.
 
