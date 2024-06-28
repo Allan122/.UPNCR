@@ -386,3 +386,19 @@ Religion has been a central aspect of Indian history, influencing social, cultur
 - **Post-independence**: Period of nation-building, economic development, and social change in India.
 
 
+**The first Animal domesticated by humans is DOG.** 
+- The first animal to be domesticated was the dog. The earliest evidence of domestication of animals comes from **Adamgarh (M.P.) and Bagor in Rajasthan** dated **5500 B.C. and 4500 B.C**.
+
+**Why it is called Harrapan Civilisation**
+- The first site which was discovered. Based on that site name is given. In the Indus Valley civilization's first site discovered was Harrapa. So it is called Harappan Civilisation.
+
+**What do Harappans call themselves?**
+#### Meluha.
+
+**Largest site of Indus Valley Civilisation**
+#### Rakhigiri.
+
+---
+While learning History you have to through various eras with an understanding of Polity, Society, Economy, Art, and Culture.
+---
+
