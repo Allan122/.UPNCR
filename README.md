@@ -317,13 +317,11 @@ It is called as pre-history, because they did not know art of writing.
 
 **Proper Agriculture started.**
 
-![image](https://github.com/Allan122/UPNCR/assets/45638226/c839abf1-568e-4d44-b78c-35443d27b66b)
-
 ### Chalcolithic Age (4,000 BCE - 1,500 BCE):
 - **Around 4,000 BCE**: Emergence of the Chalcolithic Age, characterized by the use of copper and stone tools.
 - **Around 3,000 BCE - 1,500 BCE**: Development of Chalcolithic cultures such as the Jorwe culture, Ahar-Banas culture, and others.
 
-30:50 remaining
+![image](https://github.com/Allan122/UPNCR/assets/45638226/c839abf1-568e-4d44-b78c-35443d27b66b)
 
 ### Indus Valley Civilization (3300 BCE - 1300 BCE):
 - **Around 3300 BCE**: Emergence of the Indus Valley Civilization (also known as the Harappan Civilization).
