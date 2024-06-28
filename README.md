@@ -399,6 +399,9 @@ Religion has been a central aspect of Indian history, influencing social, cultur
 #### Rakhigiri.
 
 ---
-While learning History you have to through various eras with an understanding of Polity, Society, Economy, Art, and Culture.
+🌟While learning History you have to through various eras with an understanding of Polity, Society, Economy, Art, and Culture.🌟
 ---
+---
+
+
 
