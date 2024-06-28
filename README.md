@@ -409,6 +409,7 @@ Religion has been a central aspect of Indian history, influencing social, cultur
 ---
 
 # **Importance of Ancient Indian History**
+![image](https://github.com/Allan122/.UPNCR/assets/45638226/5f09cdc1-b3cd-4aea-888d-dc5b4b7963df)
 
 ## **Development of Culture:**
 Ethnic groups such as Aryans, Indo-Greeks, Turks, etc contributed to the Indian Social system, art, and architecture.
@@ -428,3 +429,4 @@ There was a debate in the constituent assembly regarding the majority of Hindus 
 ### **If one religion becomes dominant. What happens?**
 If one religion's dominance increases conservatism comes liberality becomes less. And when conservatism increases that is always a problem for the society.
 
+## **Name of the Country**
