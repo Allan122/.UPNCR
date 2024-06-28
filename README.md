@@ -295,15 +295,17 @@ Religion has been a central aspect of Indian history, influencing social, cultur
 
 ![image](https://github.com/Allan122/UPNCR/assets/45638226/fc62b153-4fbc-485d-9a1a-82fbe2d9f101)
 
-It is called as pre-history, because they did not know art of writing.
+# Pre-History
 
-### Paleolithic Age (Old stone age) (2 million years ago - 10,000 BCE):
-- **2 million years ago**: Presence of early hominids in the Indian subcontinent.
+**It is called pre-history because they did not know the art of writing.**
+
+### Paleolithic Age (Old Stone Age) (2 million years ago - 10,000 BCE):
+- **2 million years ago**: Early hominids in the Indian subcontinent.
 - **Around 10,000 BCE**: End of the Paleolithic Age; emergence of hunter-gatherer societies, fire usage.
 
-**On the basis of the type of stone Age is divided into 3 Era - Palaeolithic, Mesolithic and Neolithic Age.**
+**based on the type of Stone Age is divided into 3 Era - Palaeolithic, Mesolithic, and Neolithic Age.**
 
-### Mesolithic Age (Middle Stone age) (10,000 BCE - 8,000 BCE): 
+### Mesolithic Age (Middle Stone Age) (10,000 BCE - 8,000 BCE): 
 - **Around 10,000 BCE**: Transition to settled life; development of agriculture and domestication of animals.
 - **Around 6,000 BCE**: Introduction of pottery and microlithic tools.
 
@@ -323,26 +325,51 @@ It is called as pre-history, because they did not know art of writing.
 
 ![image](https://github.com/Allan122/UPNCR/assets/45638226/c839abf1-568e-4d44-b78c-35443d27b66b)
 
+# Proto-History/ Bronze Age (Undeciphered script)
+
+**It is a period when they know the art of writing or don't know but the sources were from different origins or undeciphered.**
+
 ### Indus Valley Civilization (3300 BCE - 1300 BCE):
 - **Around 3300 BCE**: Emergence of the Indus Valley Civilization (also known as the Harappan Civilization).
 - **Around 2600 BCE - 1900 BCE**: Peak period of the civilization; major urban centers at Harappa, Mohenjo-Daro, and others.
 - **Around 1900 BCE - 1300 BCE**: Decline and eventual collapse of the Indus Valley Civilization.
 
+# Historic Period/ Iron Age
+
+**The History of India started from the Later Vedic Period because written texts/ Original deciphered texts were found from this period.**
+
 ### Vedic Period (1500 BCE - 500 BCE):
+
+**Early Vedic Period - 1500 BCE - 1000 BCE 
+Later Vedic Period - 1000 BCE - 600 BCE**
+
 - **Around 1500 BCE - 600 BCE**: Vedic period characterized by the composition of the Vedas and the emergence of early Hinduism.
-- **Around 1000 BCE - 600 BCE**: Development of iron technology; expansion of agricultural settlements.
+- **Around 1000 BCE - 600 BCE**: Development of iron technology, expansion of agricultural settlements, Written Scriptures.
+
+**Aryans were Nomadic People.**
 
 ### Mahajanapadas and Early Kingdoms (6th century BCE - 4th century BCE):
-- **Around 6th century BCE - 4th century BCE**: Rise of Mahajanapadas (large states) such as Magadha, Kosala, and Vajji.
+- **Around 6th century BCE - 4th century BCE**: Rise of Mahajanapadas 16 great kingdoms (large states) such as Magadha, Kosala, and Vajji.
 - **6th century BCE**: Life of Siddhartha Gautama (Buddha) and the emergence of Buddhism.
 
 ### Maurya Empire (322 BCE - 185 BCE):
-- **322 BCE - 185 BCE**: Establishment of the Maurya Empire by Chandragupta Maurya, with Ashoka the Great as its most famous ruler.
+- **322 BCE - 185 BCE**: Establishment of the Maurya Empire by Chandragupta Maurya, Bindusara with Ashoka the Great as its most famous ruler.
 - **3rd century BCE**: Ashoka's conversion to Buddhism and propagation of Buddhist ideals.
 
+### Post Mauryan Kingdoms (200 BC - 300 AD)
+
 ### Golden Age of India - Gupta Empire (320 CE - 550 CE):
+#### **5 Great kings**
+- **319 - First King Chandragupta - 1**
+- **Samudragupta**
+- **Chandragupta - 2**
+- **Kumaragupta**
+- **Skandagupta**
+ 
 - **Around 320 CE - 550 CE**: Golden age of Indian civilization under the Gupta Empire.
 - **5th century CE**: Height of Gupta cultural achievements in art, science, mathematics, and literature.
+
+### Post Gupta Period (600 AD onwards)
 
 ### Medieval India - Islamic Sultanates and Mughal Empire (7th century CE - 18th century CE):
 - **7th century CE**: Arrival of Islam in India through trade and conquests; establishment of Islamic Sultanates.
