@@ -425,6 +425,6 @@ India has been the cradle of Hinduism, Jainism, and Buddhism which interacted am
 There was a debate in the constituent assembly regarding the majority of Hindus wanted India to be a Hindu Country. Still, they did not make India a Hindu Country. 
 **Reason -** They were aware of India's ancient past, and that **India was never a Hindu country. India was always a country of a composite religion.** In Ancient times apart from Hinduism, Buddhist kings, and Jain Kings were there and in Medieval India, we had Hindu Kings and Islamic Kings. So we cannot trace even in single period in History where India is a Hindu country. And when we cannot find a trace in History then we have no right to change aspects of our country. We have to continue our existence through history. 
 
-### **If one religion becomes dominant. what happens?**
-If one religion's dominance increases conservatism comes liberality become less. And when conservatism increases that is always a problem for the society.
+### **If one religion becomes dominant. What happens?**
+If one religion's dominance increases conservatism comes liberality becomes less. And when conservatism increases that is always a problem for the society.
 
