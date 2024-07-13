@@ -1004,4 +1004,21 @@ Understanding this controversy helps to appreciate the complexities of colonial 
 
 # **General Observation made by Colonial Historians:**
 
-Ancient Indian lacked a sense of history, especially time and chronology.
+**Ancient Indian lacked a sense of history, especially time and chronology.**
+**Indians were accustomed"Usual/ Normal" to despotic"Single entity rule with absolute power" rules.**
+**They were engrossed in the problems of spiritual ritualism for the next world.**
+**The caste system was considered to be the most viscious form of social discrimination.**
+**Indians had neither experienced feelings of nationhood, nor any kind of self government.**
+
+### Due to racism was atmost white race was always superior than brown race which is inferior.
+
+---
+
+**Conclusions:**
+- Anglicists view - These generations appeared in the early history of India by **Vincent Arthur Smith**. He gave primacy to **political history**. **Alexander Invasion** accounted for almost one third of his book.
+
+- Colonial historians also claimed that Indians were incapable of governing themselves.
+
+- British interpretation of Indian History served to denigrate"criticize"fault"" indian character and achievements and justify colonial rule.
+
+# **Nationalist approach and contributions:**
