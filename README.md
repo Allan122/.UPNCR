@@ -1039,12 +1039,15 @@ Understanding this controversy helps to appreciate the complexities of colonial 
 
 # **Contributions of Nationalist Historians:**
 ### Rajendra Lal Mitra published some vedic texts and wrote a book entitled Indo-Aryan. 
-### Ram Krishna Gopal Bhandarkar and Vishwanath Kashinath Rajawde also contributing in reconstructing the social and political history of the country.
-### Pandurang Waman Kane a social reformer wrote the history of Dharma shastra which help us to make a study of social processes in ancient India.
+### Ram Krishna Gopal Bhandarkar and Vishwanath Kashinath Rajawde also contributed to reconstructing the social and political history of the country.
+### Pandurang Waman Kane a social reformer wrote the history of Dharma shastra which helped us to make a study of social processes in ancient India.
 ### Devdutta Ramkrishna Bhandarkar published a book on Ashoka and on ancient Indian political institutions.
-### Hemchandra Ray Chaudhari constructed the history of ancient India from the time of Mahabharatha to the end of Gupta Empire.
+### Hemchandra Ray Chaudhari constructed the history of ancient India from the time of Mahabharatha to the end of the Gupta Empire.
 ### R.C Majumdar was the editor of the multi-volume publication History and Culture of the Indian People.
-### History of South India was written by K A Nilakanta Shastri who emphasied on the cultural supremacy of the brahmins and also highlighted the harmony that prevailed in Indian Society.
-### KP Jaiswal exploded the myth of Indian Despotism by writing several articles in Hindu polity in 1924 in which he showed that republics existed in ancient times and enjoyed a measure of self-government.
+### History of South India was written by K A Nilakanta Shastri who emphasised on the cultural supremacy of the brahmins and also highlighted the harmony that prevailed in Indian Society.
+### KP Jaiswal exploded the myth of Indian Despotism by writing several articles on Hindu polity in 1924 in which he showed that republics existed in ancient times and enjoyed a measure of self-government. He wrote about the Mahajanapada Period.
 
-India's first king was from Bharat Dynasty.
+## The **first king of India**, according to ancient Indian texts, was **King Bharata from the Bharata dynasty**. The Bharata dynasty is believed to have ruled in the ancient Indian subcontinent during the Mahabharata period. King Bharata also gives his name to India, which is known as "Bharat" in Hindi, one of the official languages of India. The Bharata dynasty plays a significant role in Indian mythology and history.
+
+# General observation of Indian Historians:
+
