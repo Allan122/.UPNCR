@@ -1026,3 +1026,13 @@ Indian Response: They were irked by the colonialist distortions of their past hi
 
 Thus Indians took to themselves social reform apart from reconstructing ancient Indian history for self-government.
 
+Nationalist approach was a response to colonial rule. Earlier British rulers and British historians tried to suppress our Indian history but Indian historians tried to counter it.
+
+
+**Raja Ram Mohan Roy and Ishwar Chandra Vidhya Sagar** both tried to go deep into Indian history and understand the drawbacks that are associated within it. They tried to correct it and proved that sati custom was not prevailing in ancient India.
+
+**Ishwar Chandra Vidhya Sagar** also claimed that earlier times there were widow marriages but after brahminical influence it stopped.
+
+**Vinayak Damodar Savarkar** called Revolt of 1857 as the first instance of Indian Independence.
+
+**All these Indian historians go through India's past history and bring back the facts thats needed to be corrected.**
