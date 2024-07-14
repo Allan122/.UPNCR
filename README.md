@@ -1022,17 +1022,29 @@ Understanding this controversy helps to appreciate the complexities of colonial 
 - British interpretation of Indian History served to denigrate"criticize"fault"" indian character and achievements and justify colonial rule.
 
 # **Nationalist approach and contributions:**
-Indian Response: They were irked by the colonialist distortions of their past history such as the decaying feudal society of India and promoted the progressive capatalist society of England.
+- Indian Response: They were irked by the colonialist distortions of their past history such as the decaying feudal society of India and promoted the progressive capatalist society of England.
 
-Thus Indians took to themselves social reform apart from reconstructing ancient Indian history for self-government.
+- Thus Indians took to themselves social reform apart from reconstructing ancient Indian history for self-government.
 
-Nationalist approach was a response to colonial rule. Earlier British rulers and British historians tried to suppress our Indian history but Indian historians tried to counter it.
+- Nationalist approach was a response to colonial rule. Earlier British rulers and British historians tried to suppress our Indian history but Indian historians tried to counter it.
 
 
-**Raja Ram Mohan Roy and Ishwar Chandra Vidhya Sagar** both tried to go deep into Indian history and understand the drawbacks that are associated within it. They tried to correct it and proved that sati custom was not prevailing in ancient India.
+### **Raja Ram Mohan Roy and Ishwar Chandra Vidhya Sagar** both tried to go deep into Indian history and understand the drawbacks that are associated within it. They tried to correct it and proved that sati custom was not prevailing in ancient India.
 
-**Ishwar Chandra Vidhya Sagar** also claimed that earlier times there were widow marriages but after brahminical influence it stopped.
+### **Ishwar Chandra Vidhya Sagar** also claimed that earlier times there were widow marriages but after Brahminical influence, it stopped.
 
-**Vinayak Damodar Savarkar** called Revolt of 1857 as the first instance of Indian Independence.
+### **Vinayak Damodar Savarkar** called Revolt of 1857 as the first instance of Indian Independence.
 
-**All these Indian historians go through India's past history and bring back the facts thats needed to be corrected.**
+### **All these Indian historians go through India's past history and bring back the facts thats needed to be corrected.**
+
+# **Contributions of Nationalist Historians:**
+### Rajendra Lal Mitra published some vedic texts and wrote a book entitled Indo-Aryan. 
+### Ram Krishna Gopal Bhandarkar and Vishwanath Kashinath Rajawde also contributing in reconstructing the social and political history of the country.
+### Pandurang Waman Kane a social reformer wrote the history of Dharma shastra which help us to make a study of social processes in ancient India.
+### Devdutta Ramkrishna Bhandarkar published a book on Ashoka and on ancient Indian political institutions.
+### Hemchandra Ray Chaudhari constructed the history of ancient India from the time of Mahabharatha to the end of Gupta Empire.
+### R.C Majumdar was the editor of the multi-volume publication History and Culture of the Indian People.
+### History of South India was written by K A Nilakanta Shastri who emphasied on the cultural supremacy of the brahmins and also highlighted the harmony that prevailed in Indian Society.
+### KP Jaiswal exploded the myth of Indian Despotism by writing several articles in Hindu polity in 1924 in which he showed that republics existed in ancient times and enjoyed a measure of self-government.
+
+India's first king was from Bharat Dynasty.
