@@ -1022,3 +1022,7 @@ Understanding this controversy helps to appreciate the complexities of colonial 
 - British interpretation of Indian History served to denigrate"criticize"fault"" indian character and achievements and justify colonial rule.
 
 # **Nationalist approach and contributions:**
+Indian Response: They were irked by the colonialist distortions of their past history such as the decaying feudal society of India and promoted the progressive capatalist society of England.
+
+Thus Indians took to themselves social reform apart from reconstructing ancient Indian history for self-government.
+
