@@ -1050,4 +1050,8 @@ Understanding this controversy helps to appreciate the complexities of colonial 
 ## The **first king of India**, according to ancient Indian texts, was **King Bharata from the Bharata dynasty**. The Bharata dynasty is believed to have ruled in the ancient Indian subcontinent during the Mahabharata period. King Bharata also gives his name to India, which is known as "Bharat" in Hindi, one of the official languages of India. The Bharata dynasty plays a significant role in Indian mythology and history.
 
 # General observation of Indian Historians:
-
+- Indian historians show that India did have its political history and that the Indians possessed expertise in administration.
+- Indian Scholars gave much less space to Alexander's Invasion unlike vs vincent arthur smith who gave one-third of the total space. They stressed on the importance of the dialog of Porus with Alexander and Chandragupta Maurya's liberation of North Western India from Selecus.
+- KP Jaiswal and AS Altekar overplayed the role of Indigenous rulers against the rule of Shakas and Khushans, little realizing that the central Asian and some other people have become the part and parcels of India's life.
+-   
+- 
