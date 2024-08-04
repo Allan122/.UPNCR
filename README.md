@@ -1060,4 +1060,6 @@ Understanding this controversy helps to appreciate the complexities of colonial 
  - Indian Historians
  - New Historians
 
- - British Historians - AL Basham wrote the book
+ - British Historians - **AL Basham** wrote the book Wonder that was India(1951) in which he provided a sympathetic survey of various facets of ancient indian culture and civilisation free from the prejudices that plagued the writings of VS Smith or other british writers. His books marks from a great shift from political to non-political history.
+
+ - Indian Historians -  
