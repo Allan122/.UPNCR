@@ -1053,5 +1053,11 @@ Understanding this controversy helps to appreciate the complexities of colonial 
 - Indian historians show that India did have its political history and that the Indians possessed expertise in administration.
 - Indian Scholars gave much less space to Alexander's Invasion unlike vs vincent arthur smith who gave one-third of the total space. They stressed on the importance of the dialog of Porus with Alexander and Chandragupta Maurya's liberation of North Western India from Selecus.
 - KP Jaiswal and AS Altekar overplayed the role of Indigenous rulers against the rule of Shakas and Khushans, little realizing that the central Asian and some other people have become the part and parcels of India's life.
--   
-- 
+
+
+ # Shift to Non-Political history
+ - British Historians
+ - Indian Historians
+ - New Historians
+
+ - British Historians - AL Basham wrote the book
