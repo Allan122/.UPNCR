@@ -1060,6 +1060,22 @@ Understanding this controversy helps to appreciate the complexities of colonial 
  - Indian Historians
  - New Historians
 
- - British Historians - **AL Basham** wrote the book Wonder that was India(1951) in which he provided a sympathetic survey of various facets of ancient indian culture and civilisation free from the prejudices that plagued the writings of VS Smith or other british writers. His books marks from a great shift from political to non-political history.
+ - **British Historians** - **AL Basham** wrote the book **Wonder that was India(1951)** in which he provided a sympathetic survey of various facets of ancient Indian culture and civilisation free from the prejudices that plagued the writings of VS Smith or other British writers. His books marks from a great shift from political to non-political history.
 
- - Indian Historians -  
+ - **Indian Historians** - **DD Kosambi** followed the same in his book an **Introduction to the Study of Indian History(1957)**. He followed the materialistic interpretation of history which was **derived from the writings of Karl Marx**. He showed the stages of social and economic development in terms of tribal and class processes.
+
+ - **New Historians(Subaltern Historians)** - They put greater stress on social, economic and cultural processes and try to relate them to political development. However few writers magnify the role of religion and believe that everything good and great originated in the country.
+
+**Subaltern historians** are scholars who focus on the history of marginalized and oppressed groups, those who have typically been excluded from dominant historical narratives. They aim to tell the stories and perspectives of these groups, such as peasants, workers, women, and indigenous people, rather than focusing on the elite or powerful figures.
+
+### Key Points:
+1. **Focus on Marginalized Groups**: They study the history of people who have been ignored or sidelined in traditional historical accounts.
+2. **Challenge Dominant Narratives**: They question and critique the mainstream historical perspectives that often reflect the views of the powerful and privileged.
+3. **Use of Diverse Sources**: They use oral histories, folklore, and other non-traditional sources to uncover the experiences and voices of the subaltern groups.
+4. **Interdisciplinary Approach**: They incorporate insights from sociology, anthropology, and other fields to provide a more complete picture of history.
+
+Subaltern historians aim to give a voice to those who have been historically voiceless, ensuring a more inclusive and accurate portrayal of the past.
+
+**It is therefore essential to make a balanced and objective view of ancient India.**
+
+
